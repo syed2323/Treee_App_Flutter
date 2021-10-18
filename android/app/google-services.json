@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404150311482",
+    "project_id": "zeetree-18e46",
+    "storage_bucket": "zeetree-18e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404150311482:android:5d0f53e9be82662db4b303",
+        "android_client_info": {
+          "package_name": "com.example.zee_tree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404150311482-rnl65utikll2abfj8i2ppmcb63je2dkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDlRpo22-RdiDvRyUHdbsc0_ilYzzicY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404150311482-rnl65utikll2abfj8i2ppmcb63je2dkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
